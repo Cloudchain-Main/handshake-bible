@@ -4,6 +4,7 @@ const hnsBibleQuotes: IQuotes[] = [
   {
     quote: '',
     quotee: '',
+    location: '',
     link: '',
     date: ''
   },
