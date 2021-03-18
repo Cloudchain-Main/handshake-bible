@@ -1,7 +1,8 @@
 # The Handshake Bible Quotes
 
-Site which will present these quotes coming soon.
-https://handshake.org
+To view these quotes, visit https://cloudchain.link/hnsbible
+
+To learn about what Handshake is, visit https://handshake.org
 
 Anyone is free to make a PR to add quotes. Please follow the format:
 
