@@ -6,7 +6,8 @@ const hnsBibleQuotes: IQuotes[] = [
     quotee: '',
     location: '',
     link: '',
-    date: ''
-  },
-  
+    date: new Date(2021, 4, 10)
+  }
+]
+
 export default hnsBibleQuotes
