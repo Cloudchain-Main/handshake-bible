@@ -11,7 +11,7 @@ quote: `The Quote`,
 quotee: 'Whoever Said It',
 1ocation: 'Location Where It Was Said'
 link: 'Link To Quote, Optional',
-date: new Date(Year, Month, Day)
+date: new Date(`Year, Month, Day`)
 ```
 
 Example:
@@ -21,5 +21,5 @@ quote: `HNS includes all blockchain domains, including .eth... they could embrac
 quotee: 'HandshkeJesus',
 location: 'Discord',
 link: 'https://discord.com/channels/664247448469897267/774879082831413259/822114264424513590',
-date: new Date(2021, 3, 18)
+date: new Date(`2021, 3, 18`)
 ```
