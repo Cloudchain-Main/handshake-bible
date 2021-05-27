@@ -225,6 +225,30 @@ const hnsBibleQuotes: IQuotes[] = [
       "https://discord.com/channels/664247448469897267/774879082831413259/819425885525901312",
     date: new Date(`2021, 3, 10`),
   },
+{
+    quote: `“Father... into thine Hands-hake, I commit my Spirit."`,
+    quotee: "HandshakeJesus",
+    location: "Discord",
+    link:
+      "https://discord.com/channels/664247448469897267/774879082831413259/847489280049938523",
+    date: new Date(`2021, 5, 27`),
+  },
+{
+    quote: `Verily verily I say to thee... HandshakeJesus can be born in all of our hearts.`,
+    quotee: "HandshakeJesus",
+    location: "Discord",
+    link:
+      "https://discord.com/channels/664247448469897267/774879082831413259/847489636749148170",
+    date: new Date(`2021, 5, 27`),
+  },
+{
+    quote: `The Spirit of Gifting is in the Genesis Block.`,
+    quotee: "HandshakeJesus",
+    location: "Discord",
+    link:
+      "https://discord.com/channels/664247448469897267/774879082831413259/847489854320672818",
+    date: new Date(`2021, 5, 27`),
+  },
 ]
 
 export default hnsBibleQuotes
